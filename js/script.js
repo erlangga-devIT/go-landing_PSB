@@ -7,8 +7,8 @@ const CONFIG = {
   TAHUN_AJARAN: "2026/2027",
   INSTITUTION_NAME: "Pondok Modern Sabilurrosyad Muhammadiyah Banjarnegara",
   EMAIL_CONTACT: "psbsabilurrosyadmuhbjr@gmail.com",
-  WHATSAPP_SEKRETARIAT_URL: "https://wa.me/6281234567890?text=Halo%20Sekretariat%20PSB%20Sabilurrosyad,%20saya%20ingin%20bertanya",
-  WHATSAPP_ADMIN_TEKNIS_URL: "https://wa.me/6281234567890?text=Halo%20Admin,%20saya%20mengalami%20kendala%20teknis%20pendaftaran%20PSB",
+  WHATSAPP_SEKRETARIAT_URL: "https://wa.me/6285746014615?text=Halo%20Sekretariat%20PSB%20Sabilurrosyad,%20saya%20ingin%20bertanya",
+  WHATSAPP_ADMIN_TEKNIS_URL: "https://wa.me/6281329937720?text=Halo%20Admin,%20saya%20mengalami%20kendala%20teknis%20pendaftaran%20PSB",
   YOUTUBE_URL: "https://youtube.com/@pmsabilurrosyadbanjarnegara?si=2s2bmODAe0RW5k80",
   INSTAGRAM_URL: "https://www.instagram.com/pm_sabilurrosyad?utm_source=qr",
   TIKTOK_URL: "https://www.tiktok.com/@pm_sabilurrosyad?_r=1&_t=ZS-98u8RqWP51z"
