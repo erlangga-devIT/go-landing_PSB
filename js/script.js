@@ -3,7 +3,7 @@
 // ==========================================
 const CONFIG = {
   GOOGLE_FORM_PUTRA_URL: "https://docs.google.com/forms/d/e/1FAIpQLSd4rd6zi_TxzmxpP-fhsW8XJ_Zcwo-ltrn19HJjmQVP7dxm5A/viewform?usp=sharing&ouid=115321370992276871506",
-  GOOGLE_FORM_PUTRI_URL: "https://docs.google.com/forms/d/e/1FAIpQLSfT5q_JJPLlobAPoHczYPea6VP9InTtb2sWGhLBzWKy6xoOHA/viewform?usp=sharing&ouid=115321370992276871506",
+  GOOGLE_FORM_PUTRI_URL: "https://forms.gle/bTVdzXPJMtRE5ZU1A",
   TAHUN_AJARAN: "2026/2027",
   INSTITUTION_NAME: "Pondok Modern Sabilurrosyad Muhammadiyah Banjarnegara",
   EMAIL_CONTACT: "psbsabilurrosyadmuhbjr@gmail.com",
